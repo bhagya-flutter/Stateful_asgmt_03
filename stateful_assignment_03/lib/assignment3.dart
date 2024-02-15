@@ -13,10 +13,10 @@ class _Assignment3State extends State<Assignment3> {
 
   // LIST OF IMAGES
   final List<String> imageList = [
-    "https://media.istockphoto.com/id/1146517111/photo/taj-mahal-mausoleum-in-agra.jpg?s=612x612&w=0&k=20&c=vcIjhwUrNyjoKbGbAQ5sOcEzDUgOfCsm9ySmJ8gNeRk=",
-    "https://buffer.com/cdn-cgi/image/w=1000,fit=contain,q=90,f=auto/library/content/images/size/w1200/2023/10/free-images.jpg",
-    "https://st2.depositphotos.com/13108546/46538/i/450/depositphotos_465382586-stock-photo-woman-mountains-landscape-autumn.jpg",
-    "https://images.pexels.com/photos/2699478/pexels-photo-2699478.jpeg?cs=srgb&dl=pexels-sasha-prasastika-2699478.jpg&fm=jpg"
+    "https://img.freepik.com/free-photo/beautiful-countryside-road-greenery-forests_181624-5399.jpg?w=740&t=st=1707932095~exp=1707932695~hmac=73e492cac3aa3be956a9cea4f738c54e6f917d3844cf2e88890ec2b8b4d151a8",
+    "https://img.freepik.com/premium-photo/watercolor-painting-waterfall-forest-vector-illustrationwatercolor-painting-waterf_1016228-3050.jpg?w=996",
+    "https://img.freepik.com/free-photo/pathway-surrounded-by-trees-bushes-forest-sunlight_181624-26023.jpg?w=740&t=st=1707932377~exp=1707932977~hmac=553364b786114dc2a990fd39f14b024ca4c4483405fbdf42eb90fa19929d74ad",
+    "https://img.freepik.com/free-photo/beautiful-wooden-pathway-going-breathtaking-colorful-trees-forest_181624-5840.jpg?w=1480&t=st=1707932422~exp=1707933022~hmac=9035080ebed7ebbc7580fc16c107993a2f87120e6256a309011e9395dbde8e60"
   ];
 
   void showNextImage() {
